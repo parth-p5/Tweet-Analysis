@@ -1,5 +1,5 @@
 # Streaming Tweets
-Tweet wall made using Twitter streaming API
+Tweet Analyze wall made using Twitter streaming API and D3 Wordcloud
 
 1. Clone the project 
 
