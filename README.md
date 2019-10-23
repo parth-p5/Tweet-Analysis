@@ -1,4 +1,4 @@
-# Streaming Tweets
+# Tweet Analysis Dashboard
 Tweet Analyze wall made using Twitter streaming API and D3 Wordcloud
 
 1. Clone the project 
